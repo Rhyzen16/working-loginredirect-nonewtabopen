@@ -5,7 +5,10 @@ body {
   background-color: #f7f7f7;
 
 }
-
+.side video { 
+width: 180%; 
+max-width: 180%;
+}
 h2 {
 
   text-align: center;
