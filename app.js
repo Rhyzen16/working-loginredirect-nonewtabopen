@@ -29,7 +29,7 @@ function loginUser() {
   if (username === "admin" && password === "password") {
 
     alert("Login successful!");
-    window.location.href = "dashboard.html"; 
+    window.location.href = "https://manhuafast.net/"; 
     return true;
 
   } else {
