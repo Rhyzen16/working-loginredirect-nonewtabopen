@@ -29,6 +29,8 @@ function loginUser() {
   if (username === "admin" && password === "password") {
 
     alert("Login successful!");
+    window.location.href = "dashboard.html"; 
+    return true;
 
   } else {
 
