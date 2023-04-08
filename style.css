@@ -6,20 +6,18 @@ body {
 
 }
 
-section { 
+section.main { 
 display: flex; 
 justify-content: center; 
 align-items: center;
-} 
-section.side { 
-background: url(./images/bk.png) no-repeat; 
 background-size: 100% 102%;
 }
 
-.side video { 
+.main video { 
 width: 180%; 
 max-width: 180%;
 }
+
 h2 {
 
   text-align: center;
