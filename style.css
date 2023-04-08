@@ -5,6 +5,17 @@ body {
   background-color: #f7f7f7;
 
 }
+
+section { 
+display: flex; 
+justify-content: center; 
+align-items: center;
+} 
+section.side { 
+background: url(./images/bk.png) no-repeat; 
+background-size: 100% 102%;
+}
+
 .side video { 
 width: 180%; 
 max-width: 180%;
