@@ -26,15 +26,6 @@ video {
 
 }
 
-section.main { 
-background-size: 100% 102%;
-}
-
-.main video { 
-width: 180%; 
-max-width: 180%;
-}
-
 h2 {
 
   text-align: center;
