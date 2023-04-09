@@ -58,3 +58,13 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 });
 
+function showMessage() {
+
+  console.log("This message will be displayed after 5 seconds");
+
+}
+
+setTimeout(showMessage, 5000);
+
+
+
