@@ -108,3 +108,70 @@ input[type=submit]:hover {
 
 }
 
+/* Styling for the login form container */
+
+.login-container {
+
+  background-color: rgba(255, 255, 255, 0.5); /* Set the background color to transparent white */
+
+  padding: 20px;
+
+  border-radius: 10px;
+
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Add a box shadow for depth */
+
+}
+
+/* Styling for the input fields */
+
+.login-input {
+
+  display: block;
+
+  width: 100%;
+
+  padding: 10px;
+
+  margin-bottom: 10px;
+
+  border-radius: 5px;
+
+  border: none;
+
+  background-color: rgba(255, 255, 255, 0.8); /* Set the input background color to slightly opaque white */
+
+}
+
+/* Styling for the submit button */
+
+.login-submit {
+
+  display: block;
+
+  width: 100%;
+
+  padding: 10px;
+
+  border-radius: 5px;
+
+  border: none;
+
+  background-color: #007bff; /* Set the button color */
+
+  color: #fff; /* Set the text color */
+
+}
+
+/* Styling for the form labels */
+
+.login-label {
+
+  display: block;
+
+  font-weight: bold;
+
+  margin-bottom: 5px;
+
+  color: #fff;
+
+}
