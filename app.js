@@ -26,7 +26,7 @@ function loginUser() {
 
   // In this example, we're just checking if the username and password match
 
-  if (username === "admin" && password === "password") {
+  if (username === "UserID" && password === "CMF1ID") {
 
     alert("Login successful!");
     window.location.href = "https://manhuafast.net/"; 
