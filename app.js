@@ -29,7 +29,7 @@ function loginUser() {
   if (username === "UserID" && password === "CMF1ID") {
 
     alert("Login successful!");
-    window.location.href = "https://manhuafast.net/"; 
+    window.location.href = "https://www.youtube.com/watch?v=iik25wqIuFo"; 
     return true;
 
   } else {
